@@ -1,0 +1,10 @@
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\bin\Debug\SistemaContable.exe.config
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\bin\Debug\SistemaContable.exe
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\bin\Debug\SistemaContable.pdb
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.csproj.AssemblyReference.cache
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.Form1.resources
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.Properties.Resources.resources
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.csproj.GenerateResource.cache
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.exe
+C:\Users\Kobayashi\OneDrive - Universidad de Occidente\Documentos\Programas\SistemaContable\obj\Debug\SistemaContable.pdb
